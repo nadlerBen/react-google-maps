@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { getLocation } from '../utils/ipdata';
 
 const GoogleMap = ( props ) => {
   const { apiKey, latitude, longitude } = props;

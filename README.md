@@ -11,6 +11,7 @@ With that data string which I parsed to a JSON object I was able to get the desi
 I used the latitude and longitude for the google maps api which shows the user's location, I used the city and country to display to the user the found location.<br>
 
 For this assignment I have used React.js with hooks.
+I have deployed the live demo to vercel at:
 
 ## Setup
 To run this project, clone this repo and install it locally using npm:
